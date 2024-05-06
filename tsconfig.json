@@ -26,7 +26,8 @@
     "**/*.ts",
     "**/*.tsx",
     ".next/types/**/*.ts",
-    "middleware.js"
+    "middleware.js",
+    "app/LanguageChanger.js"
   ],
   "exclude": ["node_modules"]
 }
